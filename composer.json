@@ -1,0 +1,14 @@
+{
+    "name": "manhga/category-package",
+    "description": "This package crud category",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Lê Đình Mạnh",
+            "email": "manhga3689@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
